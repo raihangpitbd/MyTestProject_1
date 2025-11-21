@@ -14,6 +14,6 @@ public class Main {
     MyBat myBat = new MyBat();
 
     myBat.size = MyBat.MyBatSize.SMALL;
-    System.out.println(myBat.size);
+    System.out.println(myBat.size);//
     }
 }
